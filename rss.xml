@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NICEBAR-奶昔吧]]></title>
+        <description><![CDATA[NICEBAR-奶昔吧]]></description>
+        <link>https://thegrid.ai/testingwebsite/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 01 Sep 2016 10:45:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testingwebsite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>NICEBAR 奶昔吧</p>]]></description>
+            <link>https://thegrid.ai/testingwebsite/nicebar/index.html</link>
+            <guid isPermaLink="false">026f5083-6189-4fb2-89cc-c95ed43bac3f</guid>
+            <pubDate>Thu, 01 Sep 2016 10:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chocolate milkshake]]></title>
+            <description><![CDATA[<article><h1>Chocolate milkshake</h1><p>巧克力奶昔制作：</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75458cde-fb12-470b-afd2-f6b3e17d1207.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testingwebsite/chocolate-milkshake/index.html</link>
+            <guid isPermaLink="false">229d30b7-0b18-4928-976b-bc14278f4c50</guid>
+            <pubDate>Thu, 01 Sep 2016 10:44:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
