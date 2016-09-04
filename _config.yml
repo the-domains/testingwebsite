@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Chocolate milkshake
+    id: 229d30b7-0b18-4928-976b-bc14278f4c50
+    type: content
 favicon: null
 title: NICEBAR-奶昔吧
 description: health is easy to make
