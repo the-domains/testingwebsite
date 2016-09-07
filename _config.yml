@@ -19,6 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: vivian
+  email: vivian@vaviking.co.nz
+  url: www.tiniki.co.nz
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e76d3922-8dca-4f3b-ac63-7633d42d7fb3.svg
 name: testingwebsite
 cta:
   domain: null
